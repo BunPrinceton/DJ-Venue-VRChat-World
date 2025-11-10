@@ -3,12 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Stage Lighting
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - reserved3
+  - Item
   - Water
   - UI
   - reserved6
@@ -27,7 +28,7 @@ TagManager:
   - InternalUI
   - HardwareObjects
   - reserved4
-  - 
+  - reserved3
   - 
   - 
   - 
